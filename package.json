@@ -1,6 +1,6 @@
 {
 	"name": "@mmstudio/an000008",
-	"version": "1.0.0",
+	"version": "1.0.202003111647",
 	"description": "通用唯一识别码UUID",
 	"scripts": {
 		"test": "tsc && ava ./tests/*.js",
